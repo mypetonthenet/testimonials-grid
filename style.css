@@ -135,6 +135,7 @@ body {
 }
 
 .rodape {
+    display: none;
     font-size: 1em;
     text-align: center;
     padding-bottom: 1em;
