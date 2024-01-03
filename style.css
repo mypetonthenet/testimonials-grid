@@ -192,6 +192,7 @@ body {
     }
 
     .rodape {
+        display: none;
         padding-bottom: 0;
     }
 }
